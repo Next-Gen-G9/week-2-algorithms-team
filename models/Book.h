@@ -15,6 +15,7 @@
 //
 struct Book {
     // Add member variables here
+    int id;
 };
 
 #endif // BOOK_H
