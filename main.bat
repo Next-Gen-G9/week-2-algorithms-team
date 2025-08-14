@@ -1,6 +1,5 @@
 @echo off
 REM This batch file compiles and runs the C++ Library Management System.
-
 REM --- Step 1: Create output directories ---
 if not exist "out" (
     echo creating 'out' directory for executable...
